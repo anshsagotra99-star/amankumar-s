@@ -1,5 +1,3 @@
-# amankumar-s
-for the catering servive 
 <!DOCTYPE html>
 <html lang="en">
 <head>
