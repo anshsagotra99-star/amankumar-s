@@ -886,7 +886,7 @@ tr:hover td{background:rgba(255,255,255,.03)}
       <details class="reveal"><summary>Do you serve pure-vegetarian and Jain menus?</summary><p>We do. Pure-veg and Jain food is prepared in a separately maintained kitchen section with dedicated utensils and staff, and is served from clearly marked counters by designated waiters so there is no cross-handling at the buffet.</p></details>
       <details class="reveal"><summary>What is included in your per-plate price?</summary><p>Our standard per-plate quote includes food, cooking, transport, chafing dishes and serving equipment, crockery and cutlery, table linen, service staff, and full clearing after the event. Anything outside that — extra live counters, décor, premium crockery — is listed separately so you can see exactly what you're paying for.</p></details>
       <details class="reveal"><summary>How do your waiters dress?</summary><p>A black two-piece suit with a white full-sleeve shirt, black tie and black formal shoes, with a name badge on the left lapel. Grooming standards are checked on site by our supervisor before the event begins, and we carry spare shirts and ties to every function.</p></details>
-      <details class="reveal"><summary>Which areas do you cover?</summary><p>We regularly serve Ludhiana, Jalandhar, Amritsar, Patiala, Mohali, Chandigarh and surrounding towns. For venues further out we're happy to travel — travel and stay costs are quoted upfront with no markup.</p></details>
+      <details class="reveal"><summary>Which areas do you cover?</summary><p>We regularly serve dinanagar, Amritsar, tanda , pathankot and surrounding towns. For venues further out we're happy to travel — travel and stay costs are quoted upfront with no markup.</p></details>
     </div>
   </div>
 </section>
@@ -913,7 +913,7 @@ tr:hover td{background:rgba(255,255,255,.03)}
         </div>
         <div class="ct-row">
           <div class="ct-ico"><svg viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></div>
-          <div><small>Service Area</small><b>Ludhiana · Jalandhar · Amritsar<br>Patiala · Mohali · Chandigarh</b></div>
+          <div><small>Service Area</small><b>gurdaspur · pathankot · Amritsar<br>dinanagar · Batala · tanda</b></div>
         </div>
         <div class="ct-row">
           <div class="ct-ico"><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 5v5.6l4.3 2.5-1 1.7L11 13.6V7h2z"/></svg></div>
